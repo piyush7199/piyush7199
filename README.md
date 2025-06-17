@@ -69,7 +69,7 @@ Let’s connect — maybe even play a quick game? 😉
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:piyushlahoti7199@gmail.com">
+  <a href="mailto:maheswaripiyush9@gmail.com">
     <img src="https://img.shields.io/badge/Email-maheswaripiyush9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   &nbsp;

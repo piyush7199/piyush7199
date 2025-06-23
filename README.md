@@ -60,7 +60,7 @@ Let’s connect — maybe even play a quick game? 😉
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyush7199&show_icons=true&theme=github_dark" alt="Piyush's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7199&theme=github-dark-blue" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7199" alt="GitHub Streak" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush7199&layout=compact&theme=github_dark&hide=css,html" alt="Top Languages" height="165"/>
 </div>
 

@@ -1,64 +1,74 @@
-# 👋 Hi there, I’m Piyush!
+# 👋 Hi there, I’m Piyush Lahoti
 
-I'm a **Software Engineer 2 at Gupshup Technologies**, passionate about crafting robust backend systems and exploring the ever-evolving world of technology. With over **3 years of experience**, I specialize in building scalable systems and love diving into new technologies — always learning, always curious! 🚀
+I'm a **Software Engineer 2 at Gupshup Technologies**, passionate about crafting reliable and scalable backend systems. With over **3 years of experience**, I specialize in designing distributed systems, solving real-world problems through clean architecture, and continuously exploring emerging technologies.
 
 ---
 
-## 🛠️ Tech Stack & Interests
+## 🧑‍💻 What I Do
 
-- **Languages:** Java, Python, Node.js  
-- **Databases:** MySQL, PostgreSQL  
-- **Messaging & Infra:** RabbitMQ, Docker  
-- **Tools:** Git & GitHub, Metabase  
-- **Focus Areas:** System Design, Distributed Systems, Backend Engineering  
-- **Learning:** Deep Learning 🤖
+- Design and build robust backend services and RESTful APIs  
+- Work with microservices, messaging systems, and cloud infrastructure  
+- Dive deep into **Low-Level** and **High-Level Design** patterns  
+- Solve algorithmic problems and architect scalable solutions  
+- Maintain and contribute to open-source repositories for DSA, LLD, and HLD  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** `Java`, `Python`, `Node.js`  
+- **Frameworks:** `Spring Boot`, `FastAPI`  
+- **Databases:** `MySQL`, `PostgreSQL`, `MongoDB`  
+- **Messaging & Infra:** `RabbitMQ`, `Kafka`, `Docker`, `AWS`  
+- **Tools:** `Git`, `GitHub`, `Metabase`  
+- **Current Focus:** Deep diving into system design & backend architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### [KharchaTracker](https://github.com/piyush7199/kharchaTrackerBE)  
-*A full-stack app to manage expenses, income, and investments.*
+### 📌 [KharchaTracker](https://github.com/piyush7199/kharchaTrackerBE)  
+*A full-stack personal finance tracker to manage expenses, income, and investments.*
 
-- **Backend:** Python (FastAPI), PostgreSQL ([Backend Repo](https://github.com/piyush7199/kharchaTrackerBE))  
-- **Frontend:** Built using [Lovable](https://lovable.dev/) — an AI-powered UI tool ([Frontend Repo](https://github.com/piyush7199/money-mate-overview-5f95425e))  
-- 📊 Track, analyze, and visualize your finances with ease!  
+- **Backend:** FastAPI + PostgreSQL → [Repo](https://github.com/piyush7199/kharchaTrackerBE)  
+- **Frontend:** Built using [Lovable.dev](https://lovable.dev/) → [Repo](https://github.com/piyush7199/money-mate-overview-5f95425e)  
+- 📊 Analyze and visualize your spending easily!  
 <sub><sup>(Demo link coming soon!)</sup></sub>
 
 ---
 
-### [JavaArena: DSA & System Design](https://github.com/piyush7199/javarena-dsa-design)  
-*A comprehensive repository for Java coding interview preparation.*
+### 📌 [JavaArena: DSA & System Design](https://github.com/piyush7199/javarena-dsa-design)  
+*A structured repo for Java-based coding, design, and interview prep.*
 
-- ✅ Data Structures & Algorithms (DSA) – LeetCode, GFG, Educative  
-- 🧱 Low-Level Design – OOP principles, real-world scenarios  
-- 🏗️ High-Level Design – Scalable architectures with system diagrams and trade-offs  
-- Perfect for interview prep and strengthening your system design muscle!
+- ✅ LeetCode, GFG, Educative problems with Java solutions  
+- 🧱 LLD: OOP, Design Patterns, Real-world scenarios  
+- 🏗️ HLD: Scalable architecture designs with diagrams and trade-offs  
 
 ---
 
 ## 👨‍💻 About Me
 
-- Backend engineer passionate about solving real-world problems  
-- Enjoy building systems that scale and just work™  
-- Big believer in continuous learning and improving every day  
-- Fun fact: I pick up new tech faster than most people pick up coffee ☕  
-- 👯 Let’s collaborate on **backend-heavy** or **Java-driven** projects!
+- 🔁 Backend engineer who loves building systems that just work™  
+- 🔍 Focused on performance, readability, and maintainability  
+- 🚧 Always experimenting, learning, and improving  
+- ☕ Fun fact: I learn new tech faster than most people finish their coffee  
+- 🤝 Open to collaborating on backend-heavy or Java-centric projects
 
 ---
 
 ## ♟️ Outside of Tech
 
-When I’m not coding, you’ll find me:
-- Playing chess and working on strategic thinking  
-- Reading tech and non-fiction books 📚  
-Let’s connect — maybe even play a quick game? 😉
+- ♞ Chess enthusiast working on strategic thinking  
+- 📚 Avid reader of tech blogs and non-fiction  
+- 🗣️ Always up for conversations on systems, startups, and self-growth  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=piyush7199&color=brightgreen" alt="Profile views"/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=piyush7199&show_icons=true&theme=github_dark" alt="Piyush's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7199&theme=github_dark" alt="GitHub Streak" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush7199&layout=compact&theme=github_dark&hide=css,html" alt="Top Languages" height="165"/>
@@ -80,4 +90,4 @@ Let’s connect — maybe even play a quick game? 😉
 
 ---
 
-_Thanks for stopping by! If you want to chat about tech, chess, books, or anything in between, my inbox is always open._ ✨
+_Thanks for visiting my GitHub! If you'd like to talk tech, chess, books, or collaborate, feel free to reach out._ ✨

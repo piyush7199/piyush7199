@@ -75,8 +75,6 @@ I'm a **Software Engineer 2 at Gupshup Technologies**, passionate about crafting
 </div>
 
 
-
-
 ---
 
 ## 🔗 Connect with Me

@@ -12,6 +12,7 @@ I'm a **Software Engineer 2 at Gupshup Technologies**, passionate about crafting
 - Solve algorithmic problems and architect scalable solutions  
 - Maintain and contribute to open-source repositories for DSA, LLD, and HLD  
 
+
 ---
 
 ## 🛠️ Tech Stack

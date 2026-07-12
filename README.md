@@ -1,96 +1,21 @@
-# 👋 Hi there, I’m Piyush Lahoti
-
-I'm a **Software Engineer 2 at Gupshup Technologies**, passionate about crafting reliable and scalable backend systems. With over **3 years of experience**, I specialize in designing distributed systems, solving real-world problems through clean architecture, and continuously exploring emerging technologies.
-
----
+# 💫 About Me:
+Hi, I'm Piyush Lahoti, a Software Engineer with over 4 years of experience in building scalable backend systems using Java, Spring Boot, microservices, and cloud technologies. I'm currently working at eBay, where I focus on developing reliable and high-performance platform solutions. I enjoy solving complex engineering problems, optimizing system performance, and designing scalable distributed systems. Outside of work, I like learning new technologies, contributing to open-source projects, and continuously improving my software engineering skills.
 
 
-## 🧑‍💻 What I Do
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush7199) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.piyushlahoti@gmail.com) 
 
-- Design and build robust backend services and RESTful APIs  
-- Work with microservices, messaging systems, and cloud infrastructure  
-- Dive deep into **Low-Level** and **High-Level Design** patterns  
-- Solve algorithmic problems and architect scalable solutions  
-- Maintain and contribute to open-source repositories for DSA, LLD, and HLD  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=piyush7199&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=piyush7199&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush7199&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** `Java`, `Python`, `Node.js`  
-- **Frameworks:** `Spring Boot`, `FastAPI`  
-- **Databases:** `MySQL`, `PostgreSQL`, `MongoDB`  
-- **Messaging & Infra:** `RabbitMQ`, `Kafka`, `Docker`, `AWS`  
-- **Tools:** `Git`, `GitHub`, `Metabase`  
-- **Current Focus:** Deep diving into system design & backend architecture
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=piyush7199&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 📌 [KharchaTracker](https://github.com/piyush7199/kharchaTrackerBE)  
-*A full-stack personal finance tracker to manage expenses, income, and investments.*
-
-- **Backend:** FastAPI + PostgreSQL → [Repo](https://github.com/piyush7199/kharchaTrackerBE)  
-- **Frontend:** Built using [Lovable.dev](https://lovable.dev/) → [Repo](https://github.com/piyush7199/money-mate-overview-5f95425e)  
-- 📊 Analyze and visualize your spending easily!  
-<sub><sup>(Demo link coming soon!)</sup></sub>
-
----
-
-### 📌 [JavaArena: DSA & System Design](https://github.com/piyush7199/javarena-dsa-design)  
-*A structured repo for Java-based coding, design, and interview prep.*
-
-- ✅ LeetCode, GFG, Educative problems with Java solutions  
-- 🧱 LLD: OOP, Design Patterns, Real-world scenarios  
-- 🏗️ HLD: Scalable architecture designs with diagrams and trade-offs  
-
----
-
-## 👨‍💻 About Me
-
-- 🔁 Backend engineer who loves building systems that just work™  
-- 🔍 Focused on performance, readability, and maintainability  
-- 🚧 Always experimenting, learning, and improving  
-- ☕ Fun fact: I learn new tech faster than most people finish their coffee  
-- 🤝 Open to collaborating on backend-heavy or Java-centric projects
-
----
-
-## ♟️ Outside of Tech
-
-- ♞ Chess enthusiast working on strategic thinking  
-- 📚 Avid reader of tech blogs and non-fiction  
-- 🗣️ Always up for conversations on systems, startups, and self-growth  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piyush7199&color=brightgreen" alt="Profile views"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush7199&show_icons=true&theme=github_dark" alt="Piyush's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush7199&theme=github_dark" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush7199&layout=compact&theme=github_dark&hide=css,html" alt="Top Languages" height="165"/>
-</div>
-
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:maheswaripiyush9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maheswaripiyush9@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/piyush7199/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
----
-
-_Thanks for visiting my GitHub! If you'd like to talk tech, chess, books, or collaborate, feel free to reach out._ ✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

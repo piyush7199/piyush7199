@@ -15,10 +15,11 @@
 
 ### 🚀 About Me
 
-- 🏦 Currently working as **Software Engineer II @ JPMorgan Chase**, building reconciliation systems that process **millions of transactions daily**
-- 🔭 Previously at **Gupshup Technology**, where I architected event-driven systems processing **50M+ daily events** and cut messaging latency by **60%**
+- ☁️ Currently working as **Software Engineer III @ eBay**, on **eBay Cloud** — managing cloud security and building new features using **Kubernetes** and **Go**
+- 🏦 Previously at **JPMorgan Chase**, building reconciliation systems that process **millions of transactions daily**
+- 🔭 Before that, at **Gupshup Technology**, where I architected event-driven systems processing **50M+ daily events** and cut messaging latency by **60%**
 - 💡 I care about **system design, reliability, and performance** — turning "it works" into "it works at scale"
-- 🌱 Currently leveling up on **Go** and **Kubernetes** to go deeper on cloud-native, distributed infrastructure
+- 📚 I write and maintain resources on **LLD** and **HLD** to help others (and myself) get better at system design
 - 🎯 Actively exploring backend/infra roles at **product-based companies**
 - ⚡ Fun fact: I've cut deployment time by 85%, latency by 60%, and infra cost by ~20% — I like making systems faster and cheaper at the same time
 
@@ -70,11 +71,37 @@
   <img src="https://img.shields.io/badge/System_Design-informational?style=flat-square"/>
   <img src="https://img.shields.io/badge/Microservices-informational?style=flat-square"/>
   <img src="https://img.shields.io/badge/REST_APIs-informational?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-informational?style=flat-square"/>
 </p>
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 [Low-Level Design in Java](https://github.com/piyush7199/low-level-design-in-java)**
+
+<img src="https://img.shields.io/github/stars/piyush7199/low-level-design-in-java?style=flat-square&color=2B4C7E"/> <img src="https://img.shields.io/github/forks/piyush7199/low-level-design-in-java?style=flat-square&color=2B4C7E"/>
+
+A hands-on repo for learning **LLD** — object-oriented design patterns, SOLID principles, and real-world design problems implemented in Java.
+`Java` `OOP` `Design Patterns` `SOLID`
+
+</td>
+<td width="50%" valign="top">
+
+**🏗️ [HLD Architecture Handbook](https://github.com/piyush7199/hld-architecture-handbook)**
+
+<img src="https://img.shields.io/github/stars/piyush7199/hld-architecture-handbook?style=flat-square&color=2B4C7E"/> <img src="https://img.shields.io/github/forks/piyush7199/hld-architecture-handbook?style=flat-square&color=2B4C7E"/>
+
+A structured handbook for learning **HLD** — covers scalability, distributed systems concepts, and architecture patterns for system design interviews and real-world systems.
+`System Design` `Distributed Systems` `Scalability`
+
+</td>
+</tr>
+</table>
 
 **[Kharcha Tracker](https://github.com/piyush7199/kharchaTrackerBE)** — A full-stack personal finance management app with JWT-based authentication, email verification, bill splitting, income/expense tracking, and investment insights.
 `Python` `FastAPI` `PostgreSQL` `REST APIs`
